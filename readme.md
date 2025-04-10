@@ -30,8 +30,6 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
 ###
 
 <div align="left">
@@ -43,8 +41,6 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
